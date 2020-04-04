@@ -737,12 +737,318 @@ Date;Country Name;Country Code;Category;Change to baseline
 2020-03-29;Uganda;UG;Transit stations;-59%
 2020-03-29;Uganda;UG;Workplaces;-23%
 2020-03-29;Uganda;UG;Residential;+19%
+2020-03-29;Alabama;US;Retail & recreation;-41%
+2020-03-29;Alabama;US;Grocery & pharmacy;-13%
+2020-03-29;Alabama;US;Parks;+19%
+2020-03-29;Alabama;US;Transit stations;-30%
+2020-03-29;Alabama;US;Workplaces;-32%
+2020-03-29;Alabama;US;Residential;+9%
+2020-03-29;Alaska;US;Retail & recreation;-48%
+2020-03-29;Alaska;US;Grocery & pharmacy;-27%
+2020-03-29;Alaska;US;Parks;+18%
+2020-03-29;Alaska;US;Transit stations;-55%
+2020-03-29;Alaska;US;Workplaces;-33%
+2020-03-29;Alaska;US;Residential;+10%
+2020-03-29;Arizona;US;Retail & recreation;-40%
+2020-03-29;Arizona;US;Grocery & pharmacy;-17%
+2020-03-29;Arizona;US;Parks;-7%
+2020-03-29;Arizona;US;Transit stations;-41%
+2020-03-29;Arizona;US;Workplaces;-33%
+2020-03-29;Arizona;US;Residential;+10%
+2020-03-29;Arkansas;US;Retail & recreation;-29%
+2020-03-29;Arkansas;US;Grocery & pharmacy;-7%
+2020-03-29;Arkansas;US;Parks;+81%
+2020-03-29;Arkansas;US;Transit stations;-22%
+2020-03-29;Arkansas;US;Workplaces;-27%
+2020-03-29;Arkansas;US;Residential;+7%
+2020-03-29;California;US;Retail & recreation;-50%
+2020-03-29;California;US;Grocery & pharmacy;-24%
+2020-03-29;California;US;Parks;-38%
+2020-03-29;California;US;Transit stations;-54%
+2020-03-29;California;US;Workplaces;-39%
+2020-03-29;California;US;Residential;+15%
+2020-03-29;Colorado;US;Retail & recreation;-51%
+2020-03-29;Colorado;US;Grocery & pharmacy;-27%
+2020-03-29;Colorado;US;Parks;-12%
+2020-03-29;Colorado;US;Transit stations;-60%
+2020-03-29;Colorado;US;Workplaces;-40%
+2020-03-29;Colorado;US;Residential;+13%
+2020-03-29;Connecticut;US;Retail & recreation;-56%
+2020-03-29;Connecticut;US;Grocery & pharmacy;-32%
+2020-03-29;Connecticut;US;Parks;-52%
+2020-03-29;Connecticut;US;Transit stations;-64%
+2020-03-29;Connecticut;US;Workplaces;-38%
+2020-03-29;Connecticut;US;Residential;+15%
+2020-03-29;Delaware;US;Retail & recreation;-47%
+2020-03-29;Delaware;US;Grocery & pharmacy;-28%
+2020-03-29;Delaware;US;Parks;-6%
+2020-03-29;Delaware;US;Transit stations;-57%
+2020-03-29;Delaware;US;Workplaces;-37%
+2020-03-29;Delaware;US;Residential;+12%
+2020-03-29;District of Columbia;US;Retail & recreation;-64%
+2020-03-29;District of Columbia;US;Grocery & pharmacy;-30%
+2020-03-29;District of Columbia;US;Parks;-41%
+2020-03-29;District of Columbia;US;Transit stations;-68%
+2020-03-29;District of Columbia;US;Workplaces;-47%
+2020-03-29;District of Columbia;US;Residential;+14%
+2020-03-29;Florida;US;Retail & recreation;-50%
+2020-03-29;Florida;US;Grocery & pharmacy;-26%
+2020-03-29;Florida;US;Parks;-48%
+2020-03-29;Florida;US;Transit stations;-63%
+2020-03-29;Florida;US;Workplaces;-41%
+2020-03-29;Florida;US;Residential;+13%
+2020-03-29;Georgia;US;Retail & recreation;-42%
+2020-03-29;Georgia;US;Grocery & pharmacy;-17%
+2020-03-29;Georgia;US;Parks;-2%
+2020-03-29;Georgia;US;Transit stations;-52%
+2020-03-29;Georgia;US;Workplaces;-37%
+2020-03-29;Georgia;US;Residential;+11%
+2020-03-29;Hawaii;US;Retail & recreation;-56%
+2020-03-29;Hawaii;US;Grocery & pharmacy;-36%
+2020-03-29;Hawaii;US;Parks;-65%
+2020-03-29;Hawaii;US;Transit stations;-72%
+2020-03-29;Hawaii;US;Workplaces;-45%
+2020-03-29;Hawaii;US;Residential;+16%
+2020-03-29;Idaho;US;Retail & recreation;-42%
+2020-03-29;Idaho;US;Grocery & pharmacy;-18%
+2020-03-29;Idaho;US;Parks;+25%
+2020-03-29;Idaho;US;Transit stations;-34%
+2020-03-29;Idaho;US;Workplaces;-38%
+2020-03-29;Idaho;US;Residential;+10%
+2020-03-29;Illinois;US;Retail & recreation;-53%
+2020-03-29;Illinois;US;Grocery & pharmacy;-24%
+2020-03-29;Illinois;US;Parks;-29%
+2020-03-29;Illinois;US;Transit stations;-55%
+2020-03-29;Illinois;US;Workplaces;-39%
+2020-03-29;Illinois;US;Residential;+13%
+2020-03-29;Indiana;US;Retail & recreation;-48%
+2020-03-29;Indiana;US;Grocery & pharmacy;-25%
+2020-03-29;Indiana;US;Parks;+24%
+2020-03-29;Indiana;US;Transit stations;-34%
+2020-03-29;Indiana;US;Workplaces;-36%
+2020-03-29;Indiana;US;Residential;+11%
+2020-03-29;Iowa;US;Retail & recreation;-43%
+2020-03-29;Iowa;US;Grocery & pharmacy;-10%
+2020-03-29;Iowa;US;Parks;+41%
+2020-03-29;Iowa;US;Transit stations;-28%
+2020-03-29;Iowa;US;Workplaces;-29%
+2020-03-29;Iowa;US;Residential;+10%
+2020-03-29;Kansas;US;Retail & recreation;-36%
+2020-03-29;Kansas;US;Grocery & pharmacy;-14%
+2020-03-29;Kansas;US;Parks;+72%
+2020-03-29;Kansas;US;Transit stations;-20%
+2020-03-29;Kansas;US;Workplaces;-30%
+2020-03-29;Kansas;US;Residential;+9%
+2020-03-29;Kentucky;US;Retail & recreation;-37%
+2020-03-29;Kentucky;US;Grocery & pharmacy;-11%
+2020-03-29;Kentucky;US;Parks;+68%
+2020-03-29;Kentucky;US;Transit stations;-34%
+2020-03-29;Kentucky;US;Workplaces;-34%
+2020-03-29;Kentucky;US;Residential;+9%
+2020-03-29;Louisiana;US;Retail & recreation;-45%
+2020-03-29;Louisiana;US;Grocery & pharmacy;-16%
+2020-03-29;Louisiana;US;Parks;-18%
+2020-03-29;Louisiana;US;Transit stations;-49%
+2020-03-29;Louisiana;US;Workplaces;-35%
+2020-03-29;Louisiana;US;Residential;+11%
+2020-03-29;Maine;US;Retail & recreation;-50%
+2020-03-29;Maine;US;Grocery & pharmacy;-22%
+2020-03-29;Maine;US;Parks;-24%
+2020-03-29;Maine;US;Transit stations;-56%
+2020-03-29;Maine;US;Workplaces;-31%
+2020-03-29;Maine;US;Residential;+10%
+2020-03-29;Maryland;US;Retail & recreation;-45%
+2020-03-29;Maryland;US;Grocery & pharmacy;-25%
+2020-03-29;Maryland;US;Parks;+29%
+2020-03-29;Maryland;US;Transit stations;-51%
+2020-03-29;Maryland;US;Workplaces;-39%
+2020-03-29;Maryland;US;Residential;+13%
+2020-03-29;Massachusetts;US;Retail & recreation;-59%
+2020-03-29;Massachusetts;US;Grocery & pharmacy;-36%
+2020-03-29;Massachusetts;US;Parks;-56%
+2020-03-29;Massachusetts;US;Transit stations;-73%
+2020-03-29;Massachusetts;US;Workplaces;-42%
+2020-03-29;Massachusetts;US;Residential;+16%
+2020-03-29;Michigan;US;Retail & recreation;-58%
+2020-03-29;Michigan;US;Grocery & pharmacy;-28%
+2020-03-29;Michigan;US;Parks;+15%
+2020-03-29;Michigan;US;Transit stations;-55%
+2020-03-29;Michigan;US;Workplaces;-43%
+2020-03-29;Michigan;US;Residential;+12%
+2020-03-29;Minnesota;US;Retail & recreation;-58%
+2020-03-29;Minnesota;US;Grocery & pharmacy;-35%
+2020-03-29;Minnesota;US;Parks;-16%
+2020-03-29;Minnesota;US;Transit stations;-64%
+2020-03-29;Minnesota;US;Workplaces;-38%
+2020-03-29;Minnesota;US;Residential;+14%
+2020-03-29;Mississippi;US;Retail & recreation;-32%
+2020-03-29;Mississippi;US;Grocery & pharmacy;-7%
+2020-03-29;Mississippi;US;Parks;+27%
+2020-03-29;Mississippi;US;Transit stations;-29%
+2020-03-29;Mississippi;US;Workplaces;-30%
+2020-03-29;Mississippi;US;Residential;+9%
+2020-03-29;Missouri;US;Retail & recreation;-38%
+2020-03-29;Missouri;US;Grocery & pharmacy;-12%
+2020-03-29;Missouri;US;Parks;+73%
+2020-03-29;Missouri;US;Transit stations;-34%
+2020-03-29;Missouri;US;Workplaces;-32%
+2020-03-29;Missouri;US;Residential;+9%
 2020-03-29;United States;US;Retail & recreation;-47%
 2020-03-29;United States;US;Grocery & pharmacy;-22%
 2020-03-29;United States;US;Parks;-19%
 2020-03-29;United States;US;Transit stations;-51%
 2020-03-29;United States;US;Workplaces;-38%
 2020-03-29;United States;US;Residential;+12%
+2020-03-29;Montana;US;Retail & recreation;-51%
+2020-03-29;Montana;US;Grocery & pharmacy;-25%
+2020-03-29;Montana;US;Parks;+28%
+2020-03-29;Montana;US;Transit stations;-37%
+2020-03-29;Montana;US;Workplaces;-37%
+2020-03-29;Montana;US;Residential;+10%
+2020-03-29;Nebraska;US;Retail & recreation;-34%
+2020-03-29;Nebraska;US;Grocery & pharmacy;-9%
+2020-03-29;Nebraska;US;Parks;+109%
+2020-03-29;Nebraska;US;Transit stations;-18%
+2020-03-29;Nebraska;US;Workplaces;-24%
+2020-03-29;Nebraska;US;Residential;+8%
+2020-03-29;Nevada;US;Retail & recreation;-47%
+2020-03-29;Nevada;US;Grocery & pharmacy;-23%
+2020-03-29;Nevada;US;Parks;-38%
+2020-03-29;Nevada;US;Transit stations;-62%
+2020-03-29;Nevada;US;Workplaces;-52%
+2020-03-29;Nevada;US;Residential;+14%
+2020-03-29;New Hampshire;US;Retail & recreation;-58%
+2020-03-29;New Hampshire;US;Grocery & pharmacy;-35%
+2020-03-29;New Hampshire;US;Parks;-63%
+2020-03-29;New Hampshire;US;Transit stations;-63%
+2020-03-29;New Hampshire;US;Workplaces;-38%
+2020-03-29;New Hampshire;US;Residential;+13%
+2020-03-29;New Jersey;US;Retail & recreation;-59%
+2020-03-29;New Jersey;US;Grocery & pharmacy;-33%
+2020-03-29;New Jersey;US;Parks;-36%
+2020-03-29;New Jersey;US;Transit stations;-70%
+2020-03-29;New Jersey;US;Workplaces;-44%
+2020-03-29;New Jersey;US;Residential;+16%
+2020-03-29;New Mexico;US;Retail & recreation;-44%
+2020-03-29;New Mexico;US;Grocery & pharmacy;-18%
+2020-03-29;New Mexico;US;Parks;-12%
+2020-03-29;New Mexico;US;Transit stations;-31%
+2020-03-29;New Mexico;US;Workplaces;-34%
+2020-03-29;New Mexico;US;Residential;+11%
+2020-03-29;New York;US;Retail & recreation;-62%
+2020-03-29;New York;US;Grocery & pharmacy;-32%
+2020-03-29;New York;US;Parks;-47%
+2020-03-29;New York;US;Transit stations;-68%
+2020-03-29;New York;US;Workplaces;-46%
+2020-03-29;New York;US;Residential;+16%
+2020-03-29;North Carolina;US;Retail & recreation;-40%
+2020-03-29;North Carolina;US;Grocery & pharmacy;-15%
+2020-03-29;North Carolina;US;Parks;+13%
+2020-03-29;North Carolina;US;Transit stations;-51%
+2020-03-29;North Carolina;US;Workplaces;-35%
+2020-03-29;North Carolina;US;Residential;+10%
+2020-03-29;North Dakota;US;Retail & recreation;-44%
+2020-03-29;North Dakota;US;Grocery & pharmacy;-13%
+2020-03-29;North Dakota;US;Parks;+73%
+2020-03-29;North Dakota;US;Transit stations;-36%
+2020-03-29;North Dakota;US;Workplaces;-24%
+2020-03-29;North Dakota;US;Residential;+9%
+2020-03-29;Ohio;US;Retail & recreation;-43%
+2020-03-29;Ohio;US;Grocery & pharmacy;-19%
+2020-03-29;Ohio;US;Parks;+117%
+2020-03-29;Ohio;US;Transit stations;-33%
+2020-03-29;Ohio;US;Workplaces;-35%
+2020-03-29;Ohio;US;Residential;+10%
+2020-03-29;Oklahoma;US;Retail & recreation;-36%
+2020-03-29;Oklahoma;US;Grocery & pharmacy;-12%
+2020-03-29;Oklahoma;US;Parks;+29%
+2020-03-29;Oklahoma;US;Transit stations;-23%
+2020-03-29;Oklahoma;US;Workplaces;-32%
+2020-03-29;Oklahoma;US;Residential;+9%
+2020-03-29;Oregon;US;Retail & recreation;-51%
+2020-03-29;Oregon;US;Grocery & pharmacy;-25%
+2020-03-29;Oregon;US;Parks;-22%
+2020-03-29;Oregon;US;Transit stations;-47%
+2020-03-29;Oregon;US;Workplaces;-38%
+2020-03-29;Oregon;US;Residential;+12%
+2020-03-29;Pennsylvania;US;Retail & recreation;-50%
+2020-03-29;Pennsylvania;US;Grocery & pharmacy;-27%
+2020-03-29;Pennsylvania;US;Parks;+7%
+2020-03-29;Pennsylvania;US;Transit stations;-52%
+2020-03-29;Pennsylvania;US;Workplaces;-38%
+2020-03-29;Pennsylvania;US;Residential;+12%
+2020-03-29;Rhode Island;US;Retail & recreation;-55%
+2020-03-29;Rhode Island;US;Grocery & pharmacy;-30%
+2020-03-29;Rhode Island;US;Parks;-50%
+2020-03-29;Rhode Island;US;Transit stations;-67%
+2020-03-29;Rhode Island;US;Workplaces;-37%
+2020-03-29;Rhode Island;US;Residential;+14%
+2020-03-29;South Carolina;US;Retail & recreation;-38%
+2020-03-29;South Carolina;US;Grocery & pharmacy;-11%
+2020-03-29;South Carolina;US;Parks;-4%
+2020-03-29;South Carolina;US;Transit stations;-34%
+2020-03-29;South Carolina;US;Workplaces;-34%
+2020-03-29;South Carolina;US;Residential;+9%
+2020-03-29;South Dakota;US;Retail & recreation;-35%
+2020-03-29;South Dakota;US;Grocery & pharmacy;-3%
+2020-03-29;South Dakota;US;Parks;+126%
+2020-03-29;South Dakota;US;Transit stations;-31%
+2020-03-29;South Dakota;US;Workplaces;-25%
+2020-03-29;South Dakota;US;Residential;+8%
+2020-03-29;Tennessee;US;Retail & recreation;-35%
+2020-03-29;Tennessee;US;Grocery & pharmacy;-9%
+2020-03-29;Tennessee;US;Parks;+35%
+2020-03-29;Tennessee;US;Transit stations;-35%
+2020-03-29;Tennessee;US;Workplaces;-34%
+2020-03-29;Tennessee;US;Residential;+8%
+2020-03-29;Texas;US;Retail & recreation;-45%
+2020-03-29;Texas;US;Grocery & pharmacy;-23%
+2020-03-29;Texas;US;Parks;-27%
+2020-03-29;Texas;US;Transit stations;-47%
+2020-03-29;Texas;US;Workplaces;-36%
+2020-03-29;Texas;US;Residential;+13%
+2020-03-29;Utah;US;Retail & recreation;-41%
+2020-03-29;Utah;US;Grocery & pharmacy;-14%
+2020-03-29;Utah;US;Parks;+26%
+2020-03-29;Utah;US;Transit stations;-44%
+2020-03-29;Utah;US;Workplaces;-40%
+2020-03-29;Utah;US;Residential;+10%
+2020-03-29;Vermont;US;Retail & recreation;-62%
+2020-03-29;Vermont;US;Grocery & pharmacy;-42%
+2020-03-29;Vermont;US;Parks;-55%
+2020-03-29;Vermont;US;Transit stations;-71%
+2020-03-29;Vermont;US;Workplaces;-43%
+2020-03-29;Vermont;US;Residential;+13%
+2020-03-29;Virginia;US;Retail & recreation;-39%
+2020-03-29;Virginia;US;Grocery & pharmacy;-16%
+2020-03-29;Virginia;US;Parks;+46%
+2020-03-29;Virginia;US;Transit stations;-50%
+2020-03-29;Virginia;US;Workplaces;-36%
+2020-03-29;Virginia;US;Residential;+11%
+2020-03-29;Washington;US;Retail & recreation;-48%
+2020-03-29;Washington;US;Grocery & pharmacy;-26%
+2020-03-29;Washington;US;Parks;-11%
+2020-03-29;Washington;US;Transit stations;-56%
+2020-03-29;Washington;US;Workplaces;-41%
+2020-03-29;Washington;US;Residential;+13%
+2020-03-29;West Virginia;US;Retail & recreation;-38%
+2020-03-29;West Virginia;US;Grocery & pharmacy;-16%
+2020-03-29;West Virginia;US;Parks;+52%
+2020-03-29;West Virginia;US;Transit stations;-31%
+2020-03-29;West Virginia;US;Workplaces;-33%
+2020-03-29;West Virginia;US;Residential;+8%
+2020-03-29;Wisconsin;US;Retail & recreation;-55%
+2020-03-29;Wisconsin;US;Grocery & pharmacy;-30%
+2020-03-29;Wisconsin;US;Parks;-12%
+2020-03-29;Wisconsin;US;Transit stations;-50%
+2020-03-29;Wisconsin;US;Workplaces;-34%
+2020-03-29;Wisconsin;US;Residential;+13%
+2020-03-29;Wyoming;US;Retail & recreation;-37%
+2020-03-29;Wyoming;US;Grocery & pharmacy;-13%
+2020-03-29;Wyoming;US;Parks;+29%
+2020-03-29;Wyoming;US;Transit stations;-14%
+2020-03-29;Wyoming;US;Workplaces;-29%
+2020-03-29;Wyoming;US;Residential;+8%
 2020-03-29;Uruguay;UY;Retail & recreation;-75%
 2020-03-29;Uruguay;UY;Grocery & pharmacy;-45%
 2020-03-29;Uruguay;UY;Parks;-79%
